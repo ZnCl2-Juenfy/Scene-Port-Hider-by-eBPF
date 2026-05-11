@@ -1,5 +1,5 @@
 id=hideSceneport
-name= Scene Port Hider by eBPF
+name=Scene Port Hider by eBPF
 version=v1.0
 versionCode=1
 author=Andrea-Lyz

@@ -162,7 +162,7 @@ Actions 成功后，进入那次运行记录。
 在页面底部 `Artifacts` 里下载：
 
 ```text
-hideSceneport_module
+ScenePortHider_Release
 ```
 
 下载后解压，里面会有：

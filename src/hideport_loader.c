@@ -297,6 +297,7 @@ int main(int argc, char **argv)
         goto cleanup;
     }
 
+
     fprintf(stderr, "hideport loaded\n");
     while (!exiting)
         sleep(1);
@@ -308,3 +309,5 @@ cleanup:
     hideport_bpf__destroy(skel);
     return err;
 }
+
+
